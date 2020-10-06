@@ -10,4 +10,5 @@
 
 * [Kerberos黄金票据及和SIDHistory](kerberos-huang-jin-piao-ju-ji-he-sidhistory.md)
 * [Kerberoasting——没有Mimikatz如何导出票据或hash](kerberoasting-mei-you-mimikatz-ru-he-dao-chu-piao-ju-huo-hash.md)
+* [AS-REPRoasting](as-reproasting.md)
 
