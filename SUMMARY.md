@@ -31,4 +31,5 @@
 ---
 
 * [从域控制器中提取Active Directory数据库](cong-yu-kong-zhi-qi-zhong-ti-qu-active-directory-shu-ju-ku.md)
+* [使用Meterpreter ADSI扩展API命令进行枚举-未完成](shi-yong-meterpreter-adsi-kuo-zhan-api-ming-ling-jin-hang-mei-ju-wei-wan-cheng.md)
 
