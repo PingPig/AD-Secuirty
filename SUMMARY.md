@@ -37,5 +37,6 @@
 
 ## AD信息收集
 
-* [域内权限介绍——域控制器和AD管理](ad-xin-xi-shou-ji/untitled.md)
+* [域内权限介绍——域控制器和AD管理](ad-xin-xi-shou-ji/untitled/README.md)
+  * [监控Active Directory特权和特权帐户](ad-xin-xi-shou-ji/untitled/jian-kong-active-directory-te-quan-he-te-quan-zhang-hu.md)
 
