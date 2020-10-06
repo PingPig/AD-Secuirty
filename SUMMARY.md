@@ -24,3 +24,7 @@
 * [回顾的Active Directory安全问题及其解决方法](hui-gu-de-active-directory-an-quan-wen-ti-ji-qi-jie-jue-fang-fa.md)
 * [在SYSVOL中查找密码并利用组策略首选项](zai-sysvol-zhong-cha-zhao-mi-ma-bing-li-yong-zu-ce-lve-shou-xuan-xiang.md)
 
+## 攻击活动目录
+
+* [NtlmRelay-NTLM中继实用指南](gong-ji-huo-dong-mu-lu/ntlmrelayntlm-zhong-ji-shi-yong-zhi-nan.md)
+
