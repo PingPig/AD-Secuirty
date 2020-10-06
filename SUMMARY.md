@@ -31,7 +31,8 @@
 ---
 
 * [从域控制器中提取Active Directory数据库](cong-yu-kong-zhi-qi-zhong-ti-qu-active-directory-shu-ju-ku.md)
-* [使用Meterpreter ADSI扩展API命令进行枚举-未完成](shi-yong-meterpreter-adsi-kuo-zhan-api-ming-ling-jin-hang-mei-ju-wei-wan-cheng.md)
+* [使用Meterpreter ADSI扩展API命令进行枚举-未完成](shi-yong-meterpreter-adsi-kuo-zhan-api-ming-ling-jin-hang-mei-ju-wei-wan-cheng/README.md)
+  * [DCSync：攻击与检测](shi-yong-meterpreter-adsi-kuo-zhan-api-ming-ling-jin-hang-mei-ju-wei-wan-cheng/dcsync-gong-ji-yu-jian-ce.md)
 * [域内非域管权限的域信息收集](yu-nei-fei-yu-guan-quan-xian-de-yu-xin-xi-shou-ji.md)
 
 ## AD信息收集
