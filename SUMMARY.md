@@ -13,3 +13,7 @@
 * [AS-REPRoasting](as-reproasting.md)
 * [Kerberos协议中的漏洞MS14-068\(KB3011780\)-未完成](kerberos-xie-yi-zhong-de-lou-dong-ms14068kb3011780-wei-wan-cheng.md)
 
+## AD特权升级 <a id="active-directory-privilege-escalation"></a>
+
+* [Windows特权升级：第二部分-域管理员特权](active-directory-privilege-escalation/windows-te-quan-sheng-ji-di-er-bu-fen-yu-guan-li-yuan-te-quan.md)
+
