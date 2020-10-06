@@ -21,4 +21,5 @@
 
 * [快速在内部网络上获得域管理员的五种方式-老套路](kuai-su-zai-nei-bu-wang-luo-shang-huo-de-yu-guan-li-yuan-de-wu-zhong-fang-shi-lao-tao-lu.md)
 * [从DNSAdmins到Domain Admin-DNSAdmins的利用](cong-dnsadmins-dao-domain-admindnsadmins-de-li-yong.md)
+* [回顾的Active Directory安全问题及其解决方法](hui-gu-de-active-directory-an-quan-wen-ti-ji-qi-jie-jue-fang-fa.md)
 
