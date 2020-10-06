@@ -17,3 +17,7 @@
 
 * [Windows特权升级：第二部分-域管理员特权](active-directory-privilege-escalation/windows-te-quan-sheng-ji-di-er-bu-fen-yu-guan-li-yuan-te-quan.md)
 
+---
+
+* [快速在内部网络上获得域管理员的五种方式-老套路](kuai-su-zai-nei-bu-wang-luo-shang-huo-de-yu-guan-li-yuan-de-wu-zhong-fang-shi-lao-tao-lu.md)
+
