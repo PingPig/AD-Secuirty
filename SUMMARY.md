@@ -28,3 +28,7 @@
 
 * [NtlmRelay-NTLM中继实用指南](gong-ji-huo-dong-mu-lu/ntlmrelayntlm-zhong-ji-shi-yong-zhi-nan.md)
 
+---
+
+* [从域控制器中提取Active Directory数据库](cong-yu-kong-zhi-qi-zhong-ti-qu-active-directory-shu-ju-ku.md)
+
