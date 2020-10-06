@@ -6,3 +6,7 @@
 
 * [Kerberoast/Kerberoasting:攻击与检测](detecting-kerberoasting-activity/kerberoastkerberoasting-gong-ji-yu-jian-ce.md)
 
+---
+
+* [Kerberos黄金票据及和SIDHistory](kerberos-huang-jin-piao-ju-ji-he-sidhistory.md)
+
