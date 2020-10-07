@@ -1,7 +1,5 @@
 # 工具-Mimikatz
 
-
-
 ## 讲在前面
 
 **非官方Mimikatz指南和命令参考，**Mimikatz命令参考版本：mimikatz [2.2.0](https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20200918-fix)**（x64），**_**页面最后更新：2020年9月18日**_
