@@ -46,5 +46,6 @@
 
 ## attack tools
 
-* [工具-Mimikatz](attack-tools/gong-ju-mimikatz.md)
+* [工具-Mimikatz](attack-tools/gong-ju-mimikatz/README.md)
+  * [部分内网工具](attack-tools/gong-ju-mimikatz/bu-fen-nei-wang-gong-ju.md)
 
