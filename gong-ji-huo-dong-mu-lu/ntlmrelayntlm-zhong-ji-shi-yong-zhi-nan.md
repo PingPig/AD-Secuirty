@@ -2,7 +2,7 @@
 
 ## 讲在前面：
 
-这篇博客文章的主要目的是成为一篇NTLM中继实用的指南，以帮助消除有关NTLM中继的任何困惑。我不会详细介绍所有细节，因为不论是国内国外都有大量论文详细说明了攻击的实际工作方式，SANS的[这篇文章](https://pen-testing.sans.org/blog/2013/04/25/smb-relay-demystified-and-ntlmv2-pwnage-with-python)对于攻击背后的理论是可供深入了解的，[NTLM-Relay的几种玩法](https://blog.csdn.net/whatday/article/details/107698383)
+这篇博客文章的主要目的是成为一篇NTLM中继实用的指南，以帮助消除有关NTLM中继的任何困惑。我不会详细介绍所有细节，因为不论是国内国外都有大量论文详细说明了攻击的实际工作方式，SANS的[这篇文章](https://pen-testing.sans.org/blog/2013/04/25/smb-relay-demystified-and-ntlmv2-pwnage-with-python)对于攻击背后的理论是可供深入了解的，以及国内研究人员的[NTLM-Relay的几种玩法](https://blog.csdn.net/whatday/article/details/107698383)
 
 NTLM与NTLMv1 / v2与Net-NTLMv1 / v2
 
