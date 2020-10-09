@@ -240,13 +240,19 @@ Windows 10中的**反恶意软件扫描接口（AMSI）**
 
 ## 防御并检测Powershell的活动
 
-使用最新版本的Powershell并启用脚本块日志记录和模块日志记录
+使用powershell最新版本
+
+ **部署Device Guard /应用程序控制策略**
 
 开启Powershell日志记录
 
 **正确部署Powershell的**AppLocker功能
 
-由于PowerShell用于系统管理和登录脚本（与Exchange和DSC一样，越来越多地用于应用程序管理），因此一味的阻止PowerShell是不现实的，最好的情况就是将其配置为受限的语言模式，从而将Powershell锁定到核心元素（无API或.NET访问权限）  
+及时更新系统
+
+由于PowerShell用于系统管理和登录脚本（与Exchange和DSC一样，越来越多地用于应用程序管理），因此一味的阻止PowerShell是不现实的，最好的情况就是将其配置为受限的语言模式，从而将Powershell锁定到核心元素（无API或.NET访问权限）
+
+禁用的操作最好是分开来看，从客户系统和服务器系统上分别对待  
 
 
 ## **相关文章**
@@ -255,4 +261,7 @@ Windows 10中的**反恶意软件扫描接口（AMSI）**
 * [下载PowerShell版本5](https://adsecurity.org/?p=2668)
 * [检测攻击性PowerShell攻击工具](https://adsecurity.org/?p=2604)
 * [PowerShell版本5安全性增强](https://adsecurity.org/?p=2277)
+* [防御powershell攻击](https://devblogs.microsoft.com/powershell/defending-against-powershell-attacks/)
+
+
 
