@@ -51,6 +51,7 @@
 
 ## AD防御
 
+* [PowerShell攻击与检测](ad-fang-yu/powershell-gong-ji-yu-jian-ce.md)
 * [通过机器学习来检测Powershell恶意行为](ad-fang-yu/untitled/README.md)
   * [构建强壮的防御体系-检测的学问](ad-fang-yu/untitled/gou-jian-qiang-zhuang-de-fang-yu-ti-xi-jian-ce-de-xue-wen.md)
 
