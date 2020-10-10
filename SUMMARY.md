@@ -26,6 +26,7 @@
 
 ## 攻击活动目录
 
+* [DCShadow](gong-ji-huo-dong-mu-lu/dcshadow.md)
 * [NtlmRelay-NTLM中继实用指南](gong-ji-huo-dong-mu-lu/ntlmrelayntlm-zhong-ji-shi-yong-zhi-nan/README.md)
   * [DCSync：攻击与检测](gong-ji-huo-dong-mu-lu/ntlmrelayntlm-zhong-ji-shi-yong-zhi-nan/dcsync-gong-ji-yu-jian-ce.md)
 
