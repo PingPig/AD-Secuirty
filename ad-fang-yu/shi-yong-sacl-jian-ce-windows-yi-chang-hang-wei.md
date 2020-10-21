@@ -1,7 +1,5 @@
 # 使用SACL检测Windows异常行为
 
-
-
 ## 讲在前面
 
 通过这篇文章来介绍如何使用[系统访问控制列表（SACL）](https://docs.microsoft.com/en-us/windows/desktop/secauthz/access-control-lists)功能检测Windows主机上的异常活动，而不仅仅是只关注异常进程或线程
