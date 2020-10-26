@@ -55,6 +55,7 @@
 ## AD防御
 
 * [使用SACL检测Windows异常行为](ad-fang-yu/shi-yong-sacl-jian-ce-windows-yi-chang-hang-wei.md)
+* [为活动目录配置高级审核策略](ad-fang-yu/wei-huo-dong-mu-lu-pei-zhi-gao-ji-shen-he-ce-lve.md)
 * [Microsoft KB2871997的学习](ad-fang-yu/microsoft-kb2871997-de-xue-xi.md)
 * [PowerShell攻击与检测](ad-fang-yu/powershell-gong-ji-yu-jian-ce.md)
 * [通过机器学习来检测Powershell恶意行为](ad-fang-yu/untitled/README.md)
