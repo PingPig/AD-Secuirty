@@ -5,6 +5,7 @@
 ## ATA的分析文章解读
 
 * [什么是ATA](ata-de-fen-xi-wen-zhang-jie-du/shen-me-shi-ata.md)
+* [搭建ATA](ata-de-fen-xi-wen-zhang-jie-du/da-jian-ata.md)
 * [检测方式-和绕过建议](ata-de-fen-xi-wen-zhang-jie-du/jian-ce-fang-shi-he-rao-guo-jian-yi.md)
 
 ## 安全检查 <a id="detecting-kerberoasting-activity"></a>
